@@ -1,6 +1,6 @@
 <?php
 require('include/connexion.php');
-
+ 
 $bSupprimer = false;
 /**
  * Vérifie si un identifiant de collection est fourni
